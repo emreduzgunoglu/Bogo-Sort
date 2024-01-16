@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-    margin: 220px auto;
+    margin: 320px auto;
     display: flex;
     justify-content: space-evenly;
 }
