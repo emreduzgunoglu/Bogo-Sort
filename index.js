@@ -25,6 +25,7 @@ function display() {
     });
     correctArray = [1, 2, 3, 4]
     clearColor()
+    document.body.style.backgroundImage = "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url(laptop.jpg)";
 }
 
 function display2() {
@@ -34,6 +35,7 @@ function display2() {
     });
     correctArray = [1, 2, 3, 4, 5]
     clearColor()
+    document.body.style.backgroundImage = "linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)), url(codes.jpg)";
 }
 
 function display3() {
@@ -43,6 +45,7 @@ function display3() {
     });
     correctArray = [1, 2, 3, 4, 5, 6]
     clearColor()
+    document.body.style.backgroundImage = "linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(background.jpg)";
 }
 
 function calculate() {
